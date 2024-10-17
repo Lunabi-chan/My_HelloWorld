@@ -1,2 +1,1 @@
-﻿Console.WriteLine("hello World")
-Thread.Sleep(1000);
+﻿Console.WriteLine("hello World");
