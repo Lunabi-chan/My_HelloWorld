@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|c:\\users\\duongova\\documents\\local projects\\helloworld\\my_helloworld\\httpresponsemessagesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|solutionrelative:httpresponsemessagesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\HttpResponseMessagesExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HttpResponseMessagesExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T06:58:38.204Z",
               "EditorCaption": ""
